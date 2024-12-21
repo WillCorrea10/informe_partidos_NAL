@@ -1,0 +1,4 @@
+
+definir que el porcentaje de pases sea, para jugadores con mas de 20 toques o por minutos jugados
+agregar nuevas metricas al gráfico
+continuar con estadisticas del partido y por ulitmo logos y resultado
