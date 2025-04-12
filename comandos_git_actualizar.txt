@@ -1,0 +1,6 @@
+Actualizar en git
+
+git status
+git add .
+git commit -m "mensaje de actualización"
+git push -u origin main
